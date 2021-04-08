@@ -16,7 +16,7 @@ Currently working on &#x1F449; **Plugin** & **OP optimization** &#x1F463;
 
 Or subscribe me on weibo: 
 
-<img src="images/it399.com.qrcode.jpg" style="zoom: 0.3%;" />
+<img src="images/it399.com.qrcode.jpg" style="zoom: 0.1%;" />
 
 
 
