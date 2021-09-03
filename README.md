@@ -2,7 +2,7 @@
 
 一个非典型互联网打工人，一个不穿格子衫的人工智障程序员，一个执着于时尚的足球爱好者:snowman:
 
-Currently working on &#x1F449; **Plugin** & **OP optimization** &#x1F463;
+Currently working on &#x1F449; **Media encode decode** && **Model OP optimization** &#x1F463;
 
 
 📜👩🏻‍💻💬 **Personal blog**: [cnblogs.com/nanmi/](https://www.cnblogs.com/nanmi/)
