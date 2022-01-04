@@ -1,4 +1,5 @@
 ### Oligei :cloud:
+![](http://antzuhl.cn:4000/get/@nanmi.readme)
 
 一个非典型互联网打工人，一个不穿格子衫的人工智障程序员，一个执着于时尚的足球爱好者:snowman:
 
