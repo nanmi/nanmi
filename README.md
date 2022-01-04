@@ -16,7 +16,7 @@ Currently working on &#x1F449; **Media encode decode** && **Model OP optimizatio
 
 Or subscribe me on weibo: 
 
-<img src="images/it399.com.qrcode.jpg" style="zoom: 0.03%;" />
+<img src="images/it399.com.qrcode.jpg" style="zoom: 0.01%;" />
 
 
 
