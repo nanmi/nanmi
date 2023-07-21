@@ -2,7 +2,7 @@
 
 An atypical Internet worker, an artificially retarded programmer who doesn't wear a plaid shirt, and a football fan who is obsessed with fashion:snowman:
 
-Currently working on &#x1F449; **Media encode decode** && **Model OP optimization** &#x1F463;
+Currently working on &#x1F449; **LLM Research and deploy** && **Model OP optimization** &#x1F463;
 
 
 📜👩🏻‍💻💬 **Personal blog**: [cnblogs.com/nanmi/](https://www.cnblogs.com/nanmi/)
