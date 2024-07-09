@@ -1,6 +1,6 @@
-### Oligei :cloud:
+### Oligei ☁️
 
-An atypical Internet worker, an artificially retarded programmer who doesn't wear a plaid shirt, and a football fan who is obsessed with fashion:snowman:
+An atypical Internet worker, an artificially retarded programmer who doesn't wear a plaid shirt, and a football fan who is obsessed with fashion 🎧
 
 Currently working on &#x1F449; **LLM Research and deploy** && **Model OP optimization** &#x1F463;
 
