@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> 📜👩🏻‍💻💬 **Personal blog**: [cnblogs.com/nanmi/](https://www.cnblogs.com/nanmi/)
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 ![Nanmi's github stats](https://github-readme-stats.vercel.app/api?username=TheDudeThatCode&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanmi&layout=compact&langs_count=10&count_private=true)](https://github.com/nanmi/github-readme-stats)   
