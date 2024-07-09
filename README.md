@@ -8,7 +8,8 @@ Currently working on &#x1F449; **LLM Research and deploy** && **Model OP optimiz
 📜👩🏻‍💻💬 **Personal blog**: [cnblogs.com/nanmi/](https://www.cnblogs.com/nanmi/)
 
 
-
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
 [![Github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)](https://github.com/nanmi/github-readme-stats)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanmi&layout=compact&langs_count=10&count_private=true)](https://github.com/nanmi/github-readme-stats)   
 
